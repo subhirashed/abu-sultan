@@ -3,13 +3,12 @@ Goal: reply within 5 minutes, get to a price in 2 messages, book in 3.
 
 ## T1 — First reply (new inquiry)
 ```
-Hi! Thanks for texting. Happy to help with your move. Quick questions so I can give you a straight price:
-1) Move date + preferred time?
-2) Pickup zip / city (and drop-off if any)?
-3) What's moving? (e.g. 1-BR apartment, 10 big items, storage unit)
-4) Stairs or elevator at each end? Which floor?
-5) Do you have the truck/container, or is it just carrying?
-Photos help a lot 👍
+Hi! Thanks for texting. I'll take care of the whole thing — truck, team, equipment. So I can give you a number:
+1) Move date?
+2) From where to where (zip or city)?
+3) A few photos of what you have, or a quick list?
+4) Floors / stairs / elevator at each end?
+That's all I need 👍
 ```
 
 ## T2 — Quote
@@ -66,8 +65,8 @@ I understand — tell me what works for you and let's see if we can meet in the 
 ```
 
 ## Customer FAQ (answer in your own words)
-- **Do you have a truck?** → Labor only; you rent the truck (U-Haul/Penske) and I load/unload it. [Change only if you confirm you have a truck.]
-- **Are you licensed/insured?** → Answer truthfully. Do not claim either unless you have the documents. If unsure, say: "I'm an independent moving helper; I'm careful and will confirm everything in writing by text."
+- **Do you have a truck?** → Yes, I bring a U-Haul sized for your move, plus the team and equipment.
+- **Are you licensed/insured?** → Answer truthfully. Do not claim either unless you have the documents. If unsure, say: "I'm not a company, I'm an independent mover with my own team; everything we agree on, I confirm in writing by text."
 - **How do you price?** → One fair price for the whole job after I see photos or the items. No hourly clock.
 - **What should I prepare?** → Boxes packed and taped, fragile items labeled, parking for the truck, elevator reserved if needed.
 - **Deposit?** → No deposit; pay when the job is done.

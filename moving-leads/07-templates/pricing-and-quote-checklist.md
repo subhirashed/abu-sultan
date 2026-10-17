@@ -18,15 +18,15 @@ Typical flat quotes to aim for: unload a 10-ft U-Haul (1-BR) ≈ $120–$200; 2-
 - [ ] Pickup address/zip; drop-off address/zip; distance between them
 - [ ] Home size / item list / photos
 - [ ] Floors, stairs, elevator (reserved?), long carries, parking
-- [ ] Truck provided by customer? Size? Container (PODS/U-Box)?
+- [ ] U-Haul size needed + rental cost + mileage/fuel (goes inside your flat price)
 - [ ] Packing done? Need wrapping/blankets? Who supplies dolly/straps?
 - [ ] Number of helpers needed (you alone, or second person available?)
 - [ ] Payment method (cash / Zelle / Cash App) — paid when done
 - [ ] Anything regulated (household move across county lines — see research §6)
 
 ## Verify about YOUR setup before advertising (answer in README "Business facts")
-- Truck owned? → ads say "labor only" until confirmed.
-- Second helper available on which days?
+- Truck: none owned; you rent a U-Haul per job → add rental + fuel + mileage to every flat quote.
+- Team: full team available (confirmed).
 - Equipment: dolly, straps, blankets, tools?
 - Base zip code (determines Craigslist sub-area and ad radius).
 - Days/hours available.

@@ -6,58 +6,56 @@ Rule: one live ad at a time. Delete before reposting. Never post the same ad in 
 
 ---
 
-## Angle 1 — "Text me first" speed (PRIMARY — post this one)
+## Angle 1 — "I'm not a company, I'm your helping hand" (PRIMARY — post this one)
 
 **Title (max 70 chars):**
-`Moving Help – Load/Unload U-Haul, Apts, Storage – Text 305-781-5530`
+`Not a Moving Company – A Person Who Knows Moving – Text 305-781-5530`
 
 **Body:**
 ```
-MOVING HELP – SOUTH FLORIDA – TEXT FIRST FOR FASTEST REPLY
+I'M NOT A MOVING COMPANY. I'M A PERSON WHO KNOWS MOVING.
 
-Need strong, careful hands for your move? I provide moving labor across
-Miami-Dade, Broward and Palm Beach:
+I worked in moving for years. I saw the same thing on every job: people
+stressed, paying too much, dealing with problems and surprises.
+That's why I do this differently.
 
-• Loading & unloading U-Haul / Penske / rental trucks
-• Apartment & house moving labor (stairs and elevators OK)
-• Storage unit loading, unloading and organizing
-• Furniture moving, rearranging, heavy items
-• Help with local moves – you bring the truck, I bring the muscle
+I'm not a company. I'm your helping hand – a partner for your move.
+You don't have to figure anything out. We agree on a price, and I take
+care of the rest:
 
-HOW IT WORKS
-1. TEXT or WhatsApp 305-781-5530 with: your zip code, date, and what needs
-   moving (a few photos help).
-2. You get a fair price for the whole job after I see the items.
-3. I show up on time and get it done.
+• The truck (U-Haul), my team, and all the equipment
+• Loading, transport, unloading
+• Taking apart and putting back together beds, furniture, etc.
+• Apartments, houses, storage units – Miami-Dade, Broward, Palm Beach
 
-Fair flat price for the whole job – you tell me what you have, I give you a
-number. Flexible on dates. Serious, punctual, respectful of your belongings.
+No stress, no games. We talk, we agree, it gets done.
 
-TEXT / WhatsApp: 305-781-5530
+TEXT or WhatsApp 305-781-5530 – tell me when and where, and send a few
+photos of what you have. Everything else we sort out when we talk.
 Please text instead of calling – I reply fast.
 ```
-Keywords for the search box (paste in body bottom, plain text, no spam): `moving help, movers, moving labor, load unload, uhaul help, storage, apartment move, furniture, Miami, Fort Lauderdale, Hollywood, Pembroke Pines, Hialeah, Boca Raton`
+Keywords for the search box (paste in body bottom, plain text, no spam): `moving help, movers, moving labor, load unload, uhaul, storage, apartment move, furniture, Miami, Fort Lauderdale, Hollywood, Pembroke Pines, Hialeah, Boca Raton`
 
 ---
 
 ## Angle 2 — U-Haul / DIY mover (use if Angle 1 expires or for later rotation)
 
-**Title:** `Renting a U-Haul? Loading/Unloading Help – Text 305-781-5530`
+**Title:** `Moving Made Simple – Truck, Team & Equipment – Text 305-781-5530`
 
 **Body:**
 ```
-RENTING THE TRUCK YOURSELF? Don't throw out your back.
+DON'T WANT TO DEAL WITH THE TRUCK, THE LIFTING, OR THE STRESS?
 
-I load and unload U-Haul, Penske, Budget and PODS/containers in Miami-Dade,
-Broward and Palm Beach. Furniture wrapped and stacked properly so nothing
-shifts on the road.
+I'm not a company – I'm a person who worked in moving for years and does it
+the simple way. I bring the U-Haul, my team and the equipment. We load,
+drive, unload, take apart and reassemble your furniture. You just tell me
+when and where.
 
-• Load-only, unload-only, or both ends
-• Apartments, houses, storage units
+• Apartments, houses, storage units – Miami-Dade, Broward, Palm Beach
 • Heavy items: sofas, dressers, mattresses, washers, dryers
-• Fair flat price per job – send photos, get a number
+• One price we agree on together. The rest we sort out when we talk.
 
-Text or WhatsApp 305-781-5530 with your date and zip code for a quick quote.
+Text or WhatsApp 305-781-5530 with your date, zip code and a few photos.
 ```
 
 ---

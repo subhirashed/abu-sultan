@@ -40,7 +40,7 @@ for c in cl[1]: c.font = Font(bold=True, color="FFFFFF"); c.fill = hdr
 cl.freeze_panes = "A2"
 for i,w in enumerate([12,16,34,34,8,12,14,30],1): cl.column_dimensions[get_column_letter(i)].width = w
 cl.append(["","Craigslist","brw – services > labor/move","Angle 1 – Text me first",5,"","",'Status: NOT POSTED – awaiting approval'])
-cl.append(["","Facebook ad","25 mi radius – WhatsApp objective","Angle 1 creative",10,"","",'Status: NOT LAUNCHED – awaiting approval'])
+cl.append(["","Facebook ad","25 mi radius – WhatsApp objective","Angle 1 creative",35,"","",'Status: NOT LAUNCHED – awaiting approval'])
 
 # ---------- Weekly Scorecard ----------
 sc = wb.create_sheet("Weekly Scorecard")

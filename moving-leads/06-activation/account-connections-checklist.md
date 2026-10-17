@@ -4,10 +4,10 @@ Legend: ✅ done by Claude · 🟡 ready, needs your approval · 🔴 needs your
 
 ## Decisions (answer these; each one unblocks items below)
 - [ ] **D1 — Base zip code** (sets Craigslist sub-area + ad radius).
-- [ ] **D2 — Truck?** Yes/No. (Ads currently say labor only.)
-- [ ] **D3 — Second helper available?** Days?
+- [x] **D2 — Truck:** none; U-Haul rented per job (ads say truck included).
+- [x] **D3 — Team:** full team available.
 - [ ] **D4 — Registration question** (research §6): call FDACS 1-800-435-7352 OR start with storage/furniture-only ads (Angle 3) OR register. Pick one.
-- [ ] **D5 — Approve $20 test** (05-ad-test).
+- [ ] **D5 — Approve $50 plan** (05-ad-test/50-dollar-plan.md).
 
 ## Channels
 | Channel | Status | What you must do | Est. time |
@@ -15,12 +15,12 @@ Legend: ✅ done by Claude · 🟡 ready, needs your approval · 🔴 needs your
 | Craigslist | 🟡 copy ready | Log in (phone-verified account), post Angle 1 in services > labor/move, pay $5 | 10 min |
 | Facebook Business Page | 🔴 | Create page, add WhatsApp action button (+1 305-781-5530), paste About text | 10 min |
 | Facebook groups | 🟡 copy ready | Join 5–8 groups from the list, post after 24 h where allowed | 20 min |
-| Facebook ad ($10) | 🔴 + 🟡 | Ads Manager → payment method → WhatsApp objective → paste creative → $5/day, 2 days | 15 min |
+| Facebook ad ($35) | 🔴 + 🟡 | Ads Manager → payment method → WhatsApp objective → paste creative → $5/day, 7 days, lifetime cap $35 | 15 min |
 | WhatsApp Business | 🔴 | Install WhatsApp Business on the 305-781-5530 phone; set greeting + quick replies from T1/T2 | 10 min |
 | Landing page hosting | 🔴 | Free option: GitHub Pages on this repo (Settings → Pages → branch) or Netlify Drop (drag `03-landing-page/index.html`). Needs your GitHub/Netlify login. | 5 min |
 | Nextdoor | 🔴 | Create business page, paste description | 10 min |
 | Google Business Profile | 🔴 ⚪ | After D4; service-area setup, hide address, video verification | 20 min + wait |
-| U-Haul Moving Help® | 🔴 | Apply as service provider at movinghelp.com / Moving Helper app (terms + background check) | 20 min + review |
+| U-Haul Moving Help® | 🔴 ⭐ | Apply as service provider at movinghelp.com / Moving Helper app (terms + background check) | 20 min + review |
 | TaskRabbit | 🔴 ⚪ | Tasker sign-up, background check, set a rate (platform requires hourly; ~$50/hr is market) | 20 min + review |
 | Partners | 🟡 drafts ready | Approve messages; you send/walk in | 1 hr/week |
 
