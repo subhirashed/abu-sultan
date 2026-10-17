@@ -1,16 +1,17 @@
-# Pricing Structure & Pre-Quote Checklist
+# Pricing Reference & Pre-Quote Checklist
+
+**Your rule: one flat price per job, decided after seeing the items. No hourly rate, no minimum, no extra conditions in the ads.** The table below is only a private reference so your flat quotes stay profitable.
 
 ## Suggested pricing (based on researched South Florida rates; adjust to your capacity)
 | Service | Price | Notes |
 |---|---|---|
-| 1 helper, labor only | **$45–$55/hr**, 2-hr min ($90–$110) | TaskRabbit Miami avg is $51/hr; stay near it |
-| 2 helpers, labor only | **$85–$110/hr**, 2-hr min | Market: $70–$120/hr for 2-person crews on U-Haul Moving Help |
-| Travel fee | $0 within 15 mi of base; $20–$40 beyond | State it in the quote, not after |
-| Stairs (3rd floor+, no elevator) | +$10–$15/hr | Say it up front |
+| 1 helper, labor only | market ≈ $45–$55 per hour of work | TaskRabbit Miami avg is $51/hr — use it to sanity-check your flat quote |
+| 2 helpers, labor only | market ≈ $85–$110 per hour of work | U-Haul Moving Help crews: $70–$120/hr |
+| Distance | fold into the flat price | Do not list as a separate fee |
+| Stairs / long carry | fold into the flat price | Ask about floors before quoting |
 | Heavy/specialty items (piano, safe, gym equipment) | Quote separately | Only if you can do it safely |
-| Same-day / after 8 pm | +$15/hr or $25 flat | Optional |
 
-Typical job values: unload 10-ft U-Haul (1-BR) 2 hrs ≈ $100–$200; 2-BR load+unload with 2 helpers 4 hrs ≈ $350–$450.
+Typical flat quotes to aim for: unload a 10-ft U-Haul (1-BR) ≈ $120–$200; 2-BR load+unload with 2 helpers ≈ $350–$450. Always quote after photos.
 
 ## Before quoting — ask or check
 - [ ] Date + start time (and flexibility)
@@ -20,7 +21,7 @@ Typical job values: unload 10-ft U-Haul (1-BR) 2 hrs ≈ $100–$200; 2-BR load+
 - [ ] Truck provided by customer? Size? Container (PODS/U-Box)?
 - [ ] Packing done? Need wrapping/blankets? Who supplies dolly/straps?
 - [ ] Number of helpers needed (you alone, or second person available?)
-- [ ] Payment method agreed (cash / Zelle / Cash App)
+- [ ] Payment method (cash / Zelle / Cash App) — paid when done
 - [ ] Anything regulated (household move across county lines — see research §6)
 
 ## Verify about YOUR setup before advertising (answer in README "Business facts")

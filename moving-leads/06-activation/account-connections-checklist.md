@@ -21,7 +21,7 @@ Legend: ✅ done by Claude · 🟡 ready, needs your approval · 🔴 needs your
 | Nextdoor | 🔴 | Create business page, paste description | 10 min |
 | Google Business Profile | 🔴 ⚪ | After D4; service-area setup, hide address, video verification | 20 min + wait |
 | U-Haul Moving Help® | 🔴 | Apply as service provider at movinghelp.com / Moving Helper app (terms + background check) | 20 min + review |
-| TaskRabbit | 🔴 ⚪ | Tasker sign-up, background check, set rate ~$50/hr | 20 min + review |
+| TaskRabbit | 🔴 ⚪ | Tasker sign-up, background check, set a rate (platform requires hourly; ~$50/hr is market) | 20 min + review |
 | Partners | 🟡 drafts ready | Approve messages; you send/walk in | 1 hr/week |
 
 ## Integrations I could NOT set up (and why)

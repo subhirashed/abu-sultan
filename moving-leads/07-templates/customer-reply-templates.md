@@ -4,7 +4,7 @@ Goal: reply within 5 minutes, get to a price in 2 messages, book in 3.
 ## T1 — First reply (new inquiry)
 ```
 Hi! Thanks for texting. Happy to help with your move. Quick questions so I can give you a straight price:
-1) Move date + preferred start time?
+1) Move date + preferred time?
 2) Pickup zip / city (and drop-off if any)?
 3) What's moving? (e.g. 1-BR apartment, 10 big items, storage unit)
 4) Stairs or elevator at each end? Which floor?
@@ -15,10 +15,9 @@ Photos help a lot 👍
 ## T2 — Quote
 ```
 Thanks! Here's the price:
-• [1 helper / 2 helpers] at $[RATE]/hr, 2-hour minimum = $[MIN] for the first 2 hours.
-• Estimated time for your job: about [X] hours → roughly $[EST].
-• Travel: [included / $__ flat] for [city].
-• Payment: cash, Zelle or Cash App when the job is done.
+• Based on your photos: $[PRICE] for the whole job, [1/2] helper(s).
+• That covers everything you listed — [summary]. If anything big is added on the day, we agree on it before I lift it.
+• Payment when the job is done: cash, Zelle or Cash App.
 Does [DATE] at [TIME] work? Reply YES and I'll lock it in.
 ```
 
@@ -36,7 +35,7 @@ Hi [NAME], last check on the [DATE] move. If you've found help already, no probl
 ```
 ✅ Booked: [DATE] at [TIME]
 📍 Address: [ADDRESS] (floor [X], [stairs/elevator])
-👷 [1/2] helper(s), $[RATE]/hr, 2-hr minimum
+👷 [1/2] helper(s), agreed price: $[PRICE] for the job
 💵 Payment at completion: cash / Zelle / Cash App
 I'll text you the day before to confirm. Please have the truck there at [TIME] and boxes packed and taped. Thanks!
 ```
@@ -63,13 +62,13 @@ Thanks for reaching out! That one is outside what I can take on ([reason: distan
 
 ## T10 — Price objection
 ```
-I understand. My rate covers careful handling — wrapping and stacking so nothing breaks. If budget is tight, we can reduce hours: you pack and stage everything by the door, I handle the heavy loading only. That usually cuts the time by about a third.
+I understand — tell me what works for you and let's see if we can meet in the middle. If you pack and stage everything by the door, it's less work and I can come down on the price.
 ```
 
 ## Customer FAQ (answer in your own words)
 - **Do you have a truck?** → Labor only; you rent the truck (U-Haul/Penske) and I load/unload it. [Change only if you confirm you have a truck.]
 - **Are you licensed/insured?** → Answer truthfully. Do not claim either unless you have the documents. If unsure, say: "I'm an independent moving helper; I'm careful and will confirm everything in writing by text."
-- **Minimum?** → 2 hours.
+- **How do you price?** → One fair price for the whole job after I see photos or the items. No hourly clock.
 - **What should I prepare?** → Boxes packed and taped, fragile items labeled, parking for the truck, elevator reserved if needed.
-- **Deposit?** → No deposit; pay on completion (your choice).
-- **Cancellations?** → Free up to 24 h before; same-day cancellation may be charged the 2-hour minimum (your choice).
+- **Deposit?** → No deposit; pay when the job is done.
+- **Cancellations?** → Just let me know as early as you can.

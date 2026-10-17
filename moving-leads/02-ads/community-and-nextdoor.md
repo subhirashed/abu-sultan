@@ -5,7 +5,7 @@
 2. Ask the first 3 satisfied customers to leave a Nextdoor recommendation (template in 07-templates).
 3. Post (only where the neighborhood allows business posts, or via "Local Deals" ~ $3):
 ```
-Hi neighbors — I offer moving labor (load/unload U-Haul, furniture, storage units, apartment moves) across the tri-county area. Hourly, 2-hr minimum. Text or WhatsApp 305-781-5530 for a quick quote.
+Hi neighbors — I offer moving labor (load/unload U-Haul, furniture, storage units, apartment moves) across the tri-county area. Fair flat price per job. Text or WhatsApp 305-781-5530 with photos for a quick quote.
 ```
 
 ## Google Business Profile (free; set up after you decide on the registration question)
@@ -14,7 +14,7 @@ Hi neighbors — I offer moving labor (load/unload U-Haul, furniture, storage un
 - Service areas: Miami, Hialeah, Hollywood, Fort Lauderdale, Pembroke Pines, Miramar, Boca Raton, West Palm Beach.
 - Description (750 chars max):
 ```
-Moving labor across Miami-Dade, Broward and Palm Beach. Loading and unloading U-Haul and rental trucks, apartment and house moving labor, storage unit loading, furniture moving and rearranging. Honest hourly pricing with a 2-hour minimum. Text or WhatsApp 305-781-5530 for a fast quote.
+Moving labor across Miami-Dade, Broward and Palm Beach. Loading and unloading U-Haul and rental trucks, apartment and house moving labor, storage unit loading, furniture moving and rearranging. Fair flat price per job, agreed after seeing the items. Text or WhatsApp 305-781-5530 for a fast quote.
 ```
 - Do **not** add a storefront, fake reviews, or "licensed & insured" unless true. Verification may require a short video showing equipment and proof of location.
 

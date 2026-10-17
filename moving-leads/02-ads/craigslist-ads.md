@@ -27,11 +27,11 @@ Miami-Dade, Broward and Palm Beach:
 HOW IT WORKS
 1. TEXT or WhatsApp 305-781-5530 with: your zip code, date, and what needs
    moving (a few photos help).
-2. You get a straight price – no hidden fees.
+2. You get a fair price for the whole job after I see the items.
 3. I show up on time and get it done.
 
-Hourly rates with a 2-hour minimum. Weekend and same-week availability
-when open. Serious, punctual, respectful of your belongings.
+Fair flat price for the whole job – you tell me what you have, I give you a
+number. Flexible on dates. Serious, punctual, respectful of your belongings.
 
 TEXT / WhatsApp: 305-781-5530
 Please text instead of calling – I reply fast.
@@ -55,7 +55,7 @@ shifts on the road.
 • Load-only, unload-only, or both ends
 • Apartments, houses, storage units
 • Heavy items: sofas, dressers, mattresses, washers, dryers
-• 2-hour minimum, clear hourly price, no surprises
+• Fair flat price per job – send photos, get a number
 
 Text or WhatsApp 305-781-5530 with your date and zip code for a quick quote.
 ```
@@ -76,7 +76,7 @@ STRONG, CAREFUL HELP FOR THE HEAVY STUFF
 • Carry deliveries upstairs (appliances, mattresses, gym equipment)
 • Help assembling/disassembling beds and large furniture
 
-Serving Miami-Dade, Broward and Palm Beach. Hourly, 2-hour minimum.
+Serving Miami-Dade, Broward and Palm Beach. Flat price per job – send photos.
 Text or WhatsApp 305-781-5530 — tell me what, where and when.
 ```
 

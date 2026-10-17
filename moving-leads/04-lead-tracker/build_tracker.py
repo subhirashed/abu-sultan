@@ -12,8 +12,8 @@ wb = Workbook()
 # ---------- Leads ----------
 ws = wb.active; ws.title = "Leads"
 cols = ["Lead ID","Date received","Source","Customer name","Phone","Contact via","Service requested",
-        "Pickup location (zip/city)","Drop-off location","Move date","Hours est.","Rate $/hr",
-        "Est. job value $","Qualified? (Y/N)","Quote sent (date)","Status","Booked date",
+        "Pickup location (zip/city)","Drop-off location","Move date","Helpers","Photos received? (Y/N)",
+        "Quoted price $","Qualified? (Y/N)","Quote sent (date)","Status","Booked date",
         "Job done (date)","Revenue $","Review asked?","Referral source","Notes"]
 ws.append(cols)
 hdr = PatternFill("solid", fgColor="0F6B3A")
@@ -24,15 +24,14 @@ widths = [8,13,13,18,14,11,22,18,18,12,9,9,13,11,13,13,12,12,11,11,14,30]
 for i,w in enumerate(widths,1): ws.column_dimensions[get_column_letter(i)].width = w
 # Example row (delete when real leads arrive)
 ws.append(["L001",date(2026,10,17),"Craigslist","EXAMPLE – delete","305-000-0000","SMS","Unload U-Haul",
-           "33020 Hollywood","same",date(2026,10,25),3,95,"=K2*L2","Y",date(2026,10,17),"Quoted","","","","N","",""])
+           "33020 Hollywood","same",date(2026,10,25),1,"Y",150,"Y",date(2026,10,17),"Quoted","","","","N","",""])
 # Validation lists
 src = DataValidation(type="list", formula1='"Craigslist,Facebook group,Facebook ad,Facebook Marketplace,Nextdoor,Google,U-Haul Moving Help,TaskRabbit,Referral,Partner,Repeat,Other"', allow_blank=True)
 via = DataValidation(type="list", formula1='"SMS,WhatsApp,Call,Facebook DM,Email,Other"', allow_blank=True)
 yn = DataValidation(type="list", formula1='"Y,N"', allow_blank=True)
 status = DataValidation(type="list", formula1='"New,Replied,Quoted,Booked,Done,Lost,No response,Spam"', allow_blank=True)
-for dv,col in [(src,"C"),(via,"F"),(yn,"N"),(status,"P"),(yn,"T")]:
+for dv,col in [(src,"C"),(via,"F"),(yn,"L"),(yn,"N"),(status,"P"),(yn,"T")]:
     ws.add_data_validation(dv); dv.add(f"{col}2:{col}1000")
-for r in range(3,1001): ws[f"M{r}"] = f'=IF(AND(K{r}<>"",L{r}<>""),K{r}*L{r},"")'
 
 # ---------- Campaign Log ----------
 cl = wb.create_sheet("Campaign Log")

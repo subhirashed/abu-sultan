@@ -17,7 +17,7 @@ Leave 10 simple cards (name, "Moving Help – Load/Unload/Storage", phone, "Text
 ```
 Subject: Moving help for your residents (move-in days)
 
-Hi [NAME], I'm [YOUR NAME], an independent moving helper in [CITY]. I load/unload trucks, carry furniture and help residents move in and out — on their schedule, hourly with a 2-hour minimum.
+Hi [NAME], I'm [YOUR NAME], an independent moving helper in [CITY]. I load/unload trucks, carry furniture and help residents move in and out — on their schedule, with one fair price per job.
 If it helps, I'd be glad to be a contact you can pass to residents on move-in/move-out days. Text or WhatsApp is best: 305-781-5530.
 Thanks for your time,
 [YOUR NAME]

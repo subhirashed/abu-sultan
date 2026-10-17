@@ -19,7 +19,7 @@ Renting a U-Haul or just need muscle? I load, unload, and move furniture:
 ✅ U-Haul / rental truck loading & unloading
 ✅ Apartment & house moves (stairs OK)
 ✅ Storage units, heavy items, furniture rearranging
-Hourly rate, 2-hr minimum, no hidden fees.
+Fair flat price per job – send photos, get a number.
 📲 TEXT or WhatsApp 305-781-5530 with your date + zip code → fast quote.
 ```
 
@@ -31,7 +31,7 @@ I do moving labor (load/unload, furniture, storage) in the tri-county area. Text
 ## 4. Marketplace listing (free)
 - Marketplace → Create listing → **Item for sale** is wrong; use the **"Services"** flow if available in your region, otherwise skip Marketplace and use groups.
 - Title: `Moving Help – Load/Unload, Apartments, Storage – Text 305-781-5530`
-- Price: `$45` (shown as "starting at"; explain hourly in description)
+- Price: leave blank or `$0` and write "Flat price per job – send photos" in the description
 - Description: paste Angle 1 text above.
 
 ## 5. Paid ad creative — "Send WhatsApp message" objective ($10 test; see 05-ad-test)
@@ -39,7 +39,7 @@ I do moving labor (load/unload, furniture, storage) in the tri-county area. Text
 ```
 Renting a U-Haul this week? Don't do the heavy lifting alone.
 Moving labor in Miami-Dade, Broward & Palm Beach — loading, unloading,
-furniture, storage units. Hourly rate, 2-hr minimum, no hidden fees.
+furniture, storage units. Fair flat price for the whole job – send photos, get a number.
 Tap to WhatsApp me your date + zip code for a quick quote. 💪
 ```
 **Headline:** `Moving Help – Text for a Fast Quote`
