@@ -2,6 +2,11 @@
 **الهاتف:** 305-781-5530 · **التواصل:** رسالة نصية / واتساب أولاً · **الميزانية:** $50 (لم يُصرف منها شيء)
 آخر تحديث: 2026-10-17
 
+## 🌐 الموقع الحي
+**https://claude.ai/artifact/9qtCZn2Z4zx5mCVhCwk4Hy**
+افتحه → Share → "Anyone with the link" حتى يستطيع الزبائن فتحه. أضف `#craigslist` أو `#facebook` آخر الرابط لتعرف مصدر كل زبون.
+خطوات النشر بالضغطات: `06-activation/PUBLISH-STEPS.md`
+
 ## 📊 لوحة التنفيذ
 
 ### ✅ مكتمل ومُختبر
@@ -11,7 +16,7 @@
 | 3 إعلانات Craigslist جاهزة (عناوين ≤70 حرف، مُتحقق) | `02-ads/craigslist-ads.md` |
 | منشورات فيسبوك + نص الإعلان المدفوع + صورة إعلان 1080×1350 | `02-ads/facebook-posts.md`, `02-ads/ad-image-1080x1350.png` |
 | نصوص Nextdoor و Google Business Profile | `02-ads/community-and-nextdoor.md` |
-| صفحة هبوط للهاتف مع أزرار واتساب/SMS/اتصال (مُختبرة على عرض 390px، بدون أخطاء) | `03-landing-page/index.html` + `preview-mobile.png` |
+| صفحة هبوط حية برابط (واتساب/SMS/نسخ الرقم) | https://claude.ai/artifact/9qtCZn2Z4zx5mCVhCwk4Hy · المصدر `03-landing-page/artifact.html` |
 | متتبع العملاء (Excel: Leads، سجل الحملات، بطاقة الأداء الأسبوعية، أداء المصادر، قواعد المتابعة) | `04-lead-tracker/leads.xlsx` (+ `leads.csv`) |
 | خطة الـ $50 + جدول شركات جلب العملاء | `05-ad-test/50-dollar-plan.md` |
 | قائمة الحسابات والصلاحيات المطلوبة | `06-activation/account-connections-checklist.md` |

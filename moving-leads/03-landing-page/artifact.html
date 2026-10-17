@@ -1,0 +1,116 @@
+<title>Moving Help 305</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Not a moving company. A person who knows moving. Truck, team and equipment included. Miami-Dade, Broward, Palm Beach. Text or WhatsApp 305-781-5530.">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700;800&family=Barlow:wght@400;500;600&display=swap">
+<style>
+  /* Layout: single column, phone-first; a tall headline band, two big contact actions, then three plain sections. The phone number is the hero object. */
+  :root{
+    --bg:#f2f4f3; --surface:#ffffff; --ink:#14201c; --muted:#5a655f; --line:#d9dedb;
+    --accent:#e8641b; --accent-ink:#ffffff; --wa:#25d366; --wa-ink:#063d1e; --sms:#1d4ed8;
+    --display:"Barlow Condensed","Arial Narrow",Impact,sans-serif; --body:"Barlow",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  }
+  @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#101514;--surface:#1a211e;--ink:#eef2f0;--muted:#9aa5a0;--line:#2b3430;--accent:#f0803f;--sms:#4f7df5;color-scheme:dark}}
+  :root[data-theme="dark"]{--bg:#101514;--surface:#1a211e;--ink:#eef2f0;--muted:#9aa5a0;--line:#2b3430;--accent:#f0803f;--sms:#4f7df5;color-scheme:dark}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.5 var(--body);padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 32px}
+  main{max-width:560px;margin:0 auto}
+  .band{margin:0 calc(-1 * max(16px,env(safe-area-inset-left,0px))) 0 calc(-1 * max(16px,env(safe-area-inset-right,0px)));background:var(--ink);color:var(--bg)}
+  .band .in{max-width:560px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 26px}
+  .eyebrow{font:600 13px/1 var(--body);letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
+  h1{font:800 clamp(38px,11vw,54px)/.95 var(--display);text-transform:uppercase;margin:12px 0 14px;text-wrap:balance;letter-spacing:.005em}
+  h1 em{font-style:normal;color:var(--accent)}
+  .lede{margin:0;font-size:17px;color:#c9d1cd;max-width:34em}
+  .phone{margin:22px 0 0;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+  .num{font:800 clamp(34px,10vw,46px)/1 var(--display);letter-spacing:.02em;color:var(--bg);user-select:all;font-variant-numeric:tabular-nums}
+  .copy{font:600 13px/1 var(--body);background:transparent;color:var(--bg);border:1px solid #4a5753;border-radius:999px;padding:9px 13px;cursor:pointer}
+  .copy:focus-visible,.btn:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+  .cta{display:grid;gap:10px;margin:18px 0 8px}
+  .btn{display:flex;align-items:center;justify-content:center;gap:10px;padding:17px 16px;border-radius:12px;font:600 18px/1 var(--body);text-decoration:none;color:var(--accent-ink)}
+  .btn svg{width:22px;height:22px;flex:none}
+  .btn.wa{background:var(--wa);color:var(--wa-ink)}
+  .btn.sms{background:var(--sms)}
+  .hint{margin:0 0 10px;font-size:14px;color:var(--muted);text-align:center}
+  section{padding-block:22px 4px}
+  section + section{border-top:1px solid var(--line)}
+  h2{font:700 clamp(22px,6vw,26px)/1.1 var(--display);text-transform:uppercase;letter-spacing:.02em;margin:0 0 12px}
+  ul,ol{margin:0;padding-left:22px}
+  li{margin:7px 0}
+  li::marker{color:var(--accent)}
+  .quote{margin:0;padding:14px 16px;border-left:4px solid var(--accent);background:var(--surface);color:var(--ink);font-size:17px}
+  .fine{color:var(--muted);font-size:14px;margin:12px 0 0}
+  footer{margin-top:28px;color:var(--muted);font-size:14px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+  @media (prefers-reduced-motion:no-preference){.btn{transition:transform .12s ease}.btn:active{transform:scale(.985)}}
+</style>
+
+<main>
+  <div class="band"><div class="in">
+    <div class="eyebrow">Miami-Dade · Broward · Palm Beach</div>
+    <h1>I'm not a moving company.<br>I'm <em>your helping hand</em> for the move.</h1>
+    <p class="lede">I worked in moving for years and saw people stressed, paying too much, dealing with problems. So I do it differently: we agree on a price, and I take care of the rest.</p>
+    <div class="phone">
+      <span class="num" id="num">305-781-5530</span>
+      <button class="copy" id="copy" type="button">Copy number</button>
+    </div>
+  </div></div>
+
+  <div class="cta">
+    <a class="btn wa" id="wa" href="https://wa.me/13057815530?text=Hi%2C%20I%20need%20moving%20help.%20Date%3A%20___%20From%3A%20___%20To%3A%20___">
+      <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12 0C5.5 0 .2 5.3.2 11.8c0 2.1.5 4.1 1.6 5.9L0 24l6.5-1.7a11.8 11.8 0 0 0 5.5 1.4c6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.3-8.4zM12 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4A9.8 9.8 0 0 1 2.2 11.8C2.2 6.4 6.6 2 12 2c2.6 0 5.1 1 6.9 2.9a9.7 9.7 0 0 1 2.9 6.9c0 5.4-4.4 9.9-9.8 9.9zm5.4-7.3c-.3-.1-1.8-.9-2-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-1 1.2-.2.2-.3.2-.6.1-.3-.1-1.2-.5-2.4-1.5-.9-.8-1.5-1.8-1.6-2.1-.2-.3 0-.5.1-.6l.4-.5.3-.5c.1-.2 0-.4 0-.5l-.9-2.2c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.1.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.2-.7.2-1.3.2-1.4-.1-.1-.3-.2-.6-.3z"/></svg>
+      WhatsApp me
+    </a>
+    <a class="btn sms" id="sms" href="sms:+13057815530?&body=Hi%2C%20I%20need%20moving%20help.%20Date%3A%20___%20From%3A%20___%20To%3A%20___">
+      <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20 2H4a2 2 0 0 0-2 2v18l4-4h14a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2zm-2 12H6v-2h12v2zm0-3H6V9h12v2zm0-3H6V6h12v2z"/></svg>
+      Text 305-781-5530
+    </a>
+  </div>
+  <p class="hint">Text first. I reply fast. If a button does nothing on your phone, copy the number and text it.</p>
+
+  <section>
+    <h2>What I take care of</h2>
+    <ul>
+      <li>The truck (U-Haul), my team, and all the equipment</li>
+      <li>Loading, transport, and unloading</li>
+      <li>Taking apart and reassembling beds and furniture</li>
+      <li>Apartments, houses, storage units. Stairs and elevators are fine.</li>
+      <li>Heavy items: sofas, dressers, washers, dryers, mattresses</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>How it works</h2>
+    <ol>
+      <li><strong>Text or WhatsApp</strong> your date, where from, where to, and a few photos of what you have.</li>
+      <li><strong>We agree on a price together.</strong> One number for the whole job. No surprises, no games.</li>
+      <li><strong>I show up with the team</strong> and treat your things like my own. Everything else we sort out when we talk.</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>Why me</h2>
+    <p class="quote">You don't have to figure anything out. I'm not a company with a call center. You text me, you talk to me, and I'm the one who shows up.</p>
+    <p class="fine">Independent moving help serving Miami, Hialeah, Miami Beach, Hollywood, Pembroke Pines, Miramar, Fort Lauderdale, Pompano Beach, Boca Raton, Delray Beach, West Palm Beach and nearby. Price agreed by text after I see your items, before the job starts.</p>
+  </section>
+
+  <footer><span>Text or WhatsApp 305-781-5530</span><span>South Florida</span></footer>
+</main>
+
+<script>
+  (function(){
+    var b=document.getElementById('copy'), n=document.getElementById('num');
+    if(!b) return;
+    b.addEventListener('click',function(){
+      var t='305-781-5530';
+      function done(ok){ b.textContent = ok ? 'Copied' : 'Select and copy'; setTimeout(function(){ b.textContent='Copy number'; },1800); }
+      try{
+        if(navigator.clipboard && navigator.clipboard.writeText){ navigator.clipboard.writeText(t).then(function(){done(true)}, function(){ select(); done(false); }); }
+        else { select(); done(false); }
+      }catch(e){ select(); done(false); }
+      function select(){ try{ var r=document.createRange(); r.selectNodeContents(n); var s=window.getSelection(); s.removeAllRanges(); s.addRange(r); }catch(e){} }
+    });
+    // Optional source tag: link ends with #craigslist / #facebook / #nextdoor → added to the prefilled message
+    try{
+      var src=(location.hash||'').replace('#','').replace(/[^a-z0-9_-]/gi,'').slice(0,20);
+      if(src){ document.querySelectorAll('a[href^="https://wa.me"],a[href^="sms:"]').forEach(function(a){ a.href=a.href+encodeURIComponent(' (via '+src+')'); }); }
+    }catch(e){}
+  })();
+</script>
